@@ -1,0 +1,46 @@
+project:
+  type: book
+
+book:
+  title: "Bioinformatics for Cancer"
+  author: "Andrew Lynch"
+  
+  
+  chapters:
+    - index.qmd
+    - molecular-sequence-technologies.qmd
+    - part: DNA.qmd
+      chapters:
+        - dna-alignment.qmd
+        - dna-quality-control.qmd
+        - dna-calling-variants.qmd
+    - part: RNA.qmd
+      chapters:
+        - rna-alignment.qmd
+        - rna-quality-control.qmd
+        - rna-differential-expression.qmd
+        - rna-gsea.qmd
+    - part: amino-acids.qmd
+    - part: cancer.qmd
+      chapters:
+        - cancer-drivers.qmd
+        - cancer-driver-enrichment.qmd
+        - cancer-evolutionary-reconstruction.qmd
+    - part: appendix.qmd
+      chapters:
+        - appendix-genome-versions.qmd
+        - appendix-useful-databases.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - r4ds.scss
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

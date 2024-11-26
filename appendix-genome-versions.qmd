@@ -1,0 +1,14 @@
+# Reference versions {#sec-appendix-genome-versions}
+
+## Downloading genome reference files
+
+| Species | Version     | Command                                                                   |
+|------------------------|------------------------|------------------------|
+| human   | GRCh38/hg38 | `wget https://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz` |
+| human   | GRCh37/hg19 | `wget https://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.fa.gz` |
+| mouse   | GRCm39/mm39 | `wget https://hgdownload.soe.ucsc.edu/goldenPath/mm39/bigZips/mm39.fa.gz` |
+| mouse   | GRCm38/mm10 | `wget https://hgdownload.soe.ucsc.edu/goldenPath/mm10/bigZips/mm10.fa.gz` |
+
+## Additional Resources
+
+1.  [Broad Institute](https://gatk.broadinstitute.org/hc/en-us/articles/360035890951-Human-genome-reference-builds-GRCh38-or-hg38-b37-hg19%5D)
