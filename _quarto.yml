@@ -3,9 +3,14 @@ project:
 
 book:
   title: "Bioinformatics for Disease"
-  author: "Andrew Lynch"
   site-url: https://biomics.andrewlynch.io/
   repo-url: https://github.com/andrewrlynch/biomics/
+  
+  page-footer: 
+    left: |
+      Bioinformatics for Disease is written by <a href="https://www.andrewlynch.io">Andrew Lynch</a>.
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
   
   chapters:
     - index.qmd
@@ -25,6 +30,7 @@ book:
         - rna-differential-expression.qmd
         - rna-gsea.qmd
     - part: infectious-disease.qmd
+    - part: pop-genetics-heritable-disease.qmd
     - part: cancer.qmd
       chapters:
         - cancer-drivers.qmd
