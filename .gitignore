@@ -1,6 +1,6 @@
 /.quarto/
-/_site/
-/_book/
+_site
+_book
 .Rproj.user
 .Rhistory
 .Rdata

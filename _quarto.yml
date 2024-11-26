@@ -2,13 +2,17 @@ project:
   type: book
 
 book:
-  title: "Bioinformatics for Cancer"
+  title: "Bioinformatics for Disease"
   author: "Andrew Lynch"
-  
+  site-url: https://biomics.andrewlynch.io/
+  repo-url: https://github.com/andrewrlynch/biomics/
   
   chapters:
     - index.qmd
     - molecular-sequence-technologies.qmd
+    - part: data-skills.qmd
+      chapters:
+        - data-skills-data-visualization.qmd
     - part: DNA.qmd
       chapters:
         - dna-alignment.qmd
@@ -20,7 +24,6 @@ book:
         - rna-quality-control.qmd
         - rna-differential-expression.qmd
         - rna-gsea.qmd
-    - part: amino-acids.qmd
     - part: cancer.qmd
       chapters:
         - cancer-drivers.qmd
