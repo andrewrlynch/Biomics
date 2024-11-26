@@ -2,94 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://biomics.andrewlynch.io/index.html</loc>
-    <lastmod>2024-11-26T23:28:01.510Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.031Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/molecular-sequence-technologies.html</loc>
-    <lastmod>2024-11-26T23:28:01.512Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.033Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/data-skills.html</loc>
-    <lastmod>2024-11-26T23:28:01.515Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.036Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/data-skills-data-visualization.html</loc>
-    <lastmod>2024-11-26T23:28:01.517Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.038Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/DNA.html</loc>
-    <lastmod>2024-11-26T23:28:01.520Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.040Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/dna-alignment.html</loc>
-    <lastmod>2024-11-26T23:28:01.522Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.043Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/dna-quality-control.html</loc>
-    <lastmod>2024-11-26T23:28:01.525Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.047Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/dna-calling-variants.html</loc>
-    <lastmod>2024-11-26T23:28:01.527Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.049Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/RNA.html</loc>
-    <lastmod>2024-11-26T23:28:01.530Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.052Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/rna-alignment.html</loc>
-    <lastmod>2024-11-26T23:28:01.533Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.054Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/rna-quality-control.html</loc>
-    <lastmod>2024-11-26T23:28:01.535Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.056Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/rna-differential-expression.html</loc>
-    <lastmod>2024-11-26T23:28:01.538Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.059Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/rna-gsea.html</loc>
-    <lastmod>2024-11-26T23:28:01.540Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.061Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/infectious-disease.html</loc>
-    <lastmod>2024-11-26T23:28:01.543Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.064Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biomics.andrewlynch.io/pop-genetics-heritable-disease.html</loc>
+    <lastmod>2024-11-26T23:39:19.067Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/cancer.html</loc>
-    <lastmod>2024-11-26T23:28:01.545Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.070Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/cancer-drivers.html</loc>
-    <lastmod>2024-11-26T23:28:01.547Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.072Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/cancer-driver-enrichment.html</loc>
-    <lastmod>2024-11-26T23:28:01.551Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.075Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/cancer-evolutionary-reconstruction.html</loc>
-    <lastmod>2024-11-26T23:28:01.553Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.077Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/appendix.html</loc>
-    <lastmod>2024-11-26T23:28:01.556Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.080Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/appendix-genome-versions.html</loc>
-    <lastmod>2024-11-26T23:28:01.559Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.083Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/appendix-useful-databases.html</loc>
-    <lastmod>2024-11-26T23:28:01.562Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.088Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/references.html</loc>
-    <lastmod>2024-11-26T23:28:01.565Z</lastmod>
+    <lastmod>2024-11-26T23:39:19.090Z</lastmod>
   </url>
   <url>
     <loc>https://biomics.andrewlynch.io/Bioinformatics-for-Disease.pdf</loc>
-    <lastmod>2024-11-26T23:28:01.345Z</lastmod>
+    <lastmod>2024-11-26T23:39:18.862Z</lastmod>
   </url>
 </urlset>
