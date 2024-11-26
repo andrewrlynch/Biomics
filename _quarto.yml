@@ -24,6 +24,7 @@ book:
         - rna-quality-control.qmd
         - rna-differential-expression.qmd
         - rna-gsea.qmd
+    - part: infectious-disease.qmd
     - part: cancer.qmd
       chapters:
         - cancer-drivers.qmd
